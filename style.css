@@ -1,0 +1,15 @@
+/* Custom Styles */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+    margin-right: 10px;
+}
+
+.nav-link:hover {
+    color: #0056b3;
+    transition: color 0.3s;
+}
